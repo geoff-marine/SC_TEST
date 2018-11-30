@@ -67,6 +67,7 @@
     <Build Include="dbo\Tables\BAR.sql" />
     <Build Include="fooBar.sql" />
     <Build Include="dbo\Tables\flub.sql" />
+    <Build Include="dbo\insertFlub.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="SC_TEST.refactorlog" />
